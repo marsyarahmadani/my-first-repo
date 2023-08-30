@@ -6,4 +6,4 @@ Kelas   : PBP E
 
 Hobi    : Nonton
 
-Jurusan : Sistem Informasi
+Jurusan : Sistem Informasi SI
